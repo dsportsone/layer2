@@ -1,0 +1,29 @@
+{
+  "description": "The2ndPlanet has the ability to run on relatively low-powered smart phonesandPCs.",
+  "external_url": "https://raw.githubusercontent.com/freeblockLuxe/layer2/main/the2endplanet2.JPG",
+  "image": "https://raw.githubusercontent.com/freeblockLuxe/layer2/main/the2endplanet.JPG",
+  "name": "The 2nd Planet",
+  "attributes": [
+    {
+      "trait_type": "power",
+      "value": "12"
+    },
+    {
+      "trait_type": "defense",
+      "value": "33"
+    },
+    {
+      "trait_type": "magic",
+      "value": "42"
+    },
+    {
+      "trait_type": "speed",
+      "value": "22"
+    },
+    {
+      "trait_type": "luck",
+      "value": "9"
+    }
+  ],
+  "background_color": "ffffff"
+}
